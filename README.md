@@ -1,6 +1,6 @@
 # Rasperry: conexión con puerto UART
 -----
-###Autores: 
+Autores: 
     Angel Estrada Centeno A01732584
     José Diego Tomé Guardado A01733345 
     Pamela Hernández Montero A01736368 
